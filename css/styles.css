@@ -294,9 +294,7 @@ hr{
 }
 
 @media screen and (max-width: 1000px){
-  p{
-    font-size: 0.8rem;
-  }
+  
   
   .gap{
     margin-top: 15px;
@@ -307,6 +305,6 @@ hr{
   }
 
   .info{
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 }
